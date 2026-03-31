@@ -2,13 +2,13 @@
 
 This repository contains my solutions to programming exercises developed during the Fundamentals of Programming (FUP) course
 
---
+---
 
 ## About
 
 The goal of this repository is to build a strong foundation in programming logic using the C language, progressing from basic concepts to more advanced problem-solving techniques
 
---
+---
 
 ## Repository Structure
 
@@ -19,7 +19,7 @@ FUP_C_EXERCISES
 ├── 03_Repetition_Structures
 ├── 04_Subroutines
 
---
+---
 
 ### 01 - Sequential Structure
 
@@ -71,14 +71,14 @@ To be documented
 
 More exercises will be added here…
 
---
+---
 
 ## Technologies Used
 Language: C
 Compiler: GCC
 Editor: VS Code
 
---
+---
 
 ## Objectives
 Improve programming logic
@@ -86,7 +86,7 @@ Practice problem-solving
 Learn core concepts of C programming
 Build a strong technical foundation
 
---
+---
 
 ## Author
 Enzo Gazire Rossi
