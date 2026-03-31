@@ -1,14 +1,17 @@
 # FUP C EXERCISES
+
 This repository contains my solutions to programming exercises developed during the Fundamentals of Programming (FUP) course
 
-
+--
 
 ## About
+
 The goal of this repository is to build a strong foundation in programming logic using the C language, progressing from basic concepts to more advanced problem-solving techniques
 
-
+--
 
 ## Repository Structure
+
 FUP_C_EXERCISES
 │
 ├── 01_Sequential_Structure
@@ -16,7 +19,7 @@ FUP_C_EXERCISES
 ├── 03_Repetition_Structures
 ├── 04_Subroutines
 
-
+--
 
 ### 01 - Sequential Structure
 
@@ -34,6 +37,7 @@ Exercises
 
 
 
+
 ### 02 - Decision Structures
 
 Programs that use conditional logic (if, else, else if) to make decisions.
@@ -42,6 +46,7 @@ Exercises
 To be documented
 
 More exercises will be added here…
+
 
 
 
@@ -56,6 +61,7 @@ More exercises will be added here…
 
 
 
+
 ### 04 - Subroutines
 
 Programs using functions and modular programming concepts.
@@ -65,14 +71,14 @@ To be documented
 
 More exercises will be added here…
 
-
+--
 
 ## Technologies Used
 Language: C
 Compiler: GCC
 Editor: VS Code
 
-
+--
 
 ## Objectives
 Improve programming logic
@@ -80,7 +86,7 @@ Practice problem-solving
 Learn core concepts of C programming
 Build a strong technical foundation
 
-
+--
 
 ## Author
 Enzo Gazire Rossi
