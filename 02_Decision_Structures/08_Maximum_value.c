@@ -1,27 +1,34 @@
 #include <stdio.h>
 
 int main(){
-    int n1;
-    int n2;
-    int n3;
-    int tot;
-    
-    scanf("%d", &n1);
-    scanf("%d", &n2);
-    scanf("%d", &n3);
-    
-    if (n1 == n2 && n1 != n3 || n3 == n2 && n3 != n1 || n3 == n1 && n3 != n2){
-        tot = 2;
-    }
-    
-    else if (n1 == n2 && n2 == n3){
-        tot = 3;
-    }
-    
-    else{
-        tot = 0;
-    }
-    
-    printf("%d", tot);
-    
+   int v1;
+   int v2;
+   int v3;
+   int v4; 
+   int maior;
+   maior = 0;
+   
+   scanf("%d", &v1);
+   scanf("%d", &v2);
+   scanf("%d", &v3);
+   scanf("%d", &v4);
+   
+   if (v1 > maior){
+       maior = v1;
+   }
+   
+   if (v2 > maior){
+       maior = v2;
+   }
+   
+   if (v3 > maior){
+       maior = v3;
+   }
+   
+   if (v4 > maior){
+       maior = v4;
+   }
+   
+   printf("%d", maior);
+   
 }
