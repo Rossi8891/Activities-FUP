@@ -24,7 +24,7 @@ FUP_C_EXERCISES
 ### 01 - Sequential Structure
 
 Basic programs executed step by step, without conditions or loops.
-Exercises
+Exercises:
 
 1. arithmetic_mean.c → Calculates the average of two numbers
 2. fahrenheit_converter.c → Converts Celsius to Fahrenheit
@@ -41,7 +41,7 @@ Exercises
 ### 02 - Decision Structures
 
 Programs that use conditional logic (if, else, else if) to make decisions.
-Exercises
+Exercises:
 
 1. grade_average_status.c → Calculates the student’s average and determines academic status
 2. divisibility_check.c → Checks if a number is divisible by another
@@ -71,12 +71,25 @@ Exercises
 ### 03 - Repetition Structures
 
 Exercises involving loops such as for, while, and do while.
-Exercises
+Exercises:
 
-To be documented
-
-More exercises will be added here…
-
+1. Repeat_print_phrase.c: Repeats and prints a phrase multiple times based on user input.
+2. _Sum_range_a_to_b.c: Calculates the sum of numbers within a given range.
+3. Even_sum_range.c: Computes the sum of even numbers in a specified range.
+4. Even_divisible_by_3_sum.c: Sums even numbers that are divisible by 3.
+5. Even_divisible_by_3_and_x_sum.c: Sums even numbers divisible by both 3 and another value.
+6. Average_from_inputs.c: Calculates the average of multiple input values.
+7. Count_occurrences.c: Counts how many times a specific value appears.
+8. Fit_capacity_checker.c: Checks if values fit within a defined capacity.
+9. Minimum_value_finder.c: Finds the smallest value among inputs.
+10. MinMax_sum_calculator.c: Calculates the sum between minimum and maximum values.
+11. Parity_force_analyzer.c: Analyzes numbers based on parity conditions.
+12. Odd_positive_average_calculator.c: Computes the average of odd positive numbers.
+13. Digit_counter.c: Counts the number of digits in a number.
+14. Water_billing_system.c: Simulates a water billing calculation system.
+15. Frequency_counter.c: Counts frequency of values in a sequence.
+16. Blackjack_score.c: Calculates Blackjack scores based on input values.
+17. Palindrome_validator.c: Checks if a number is a palindrome.
 
 
 
