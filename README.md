@@ -74,7 +74,7 @@ Exercises involving loops such as for, while, and do while.
 Exercises:
 
 1. Repeat_print_phrase.c: Repeats and prints a phrase multiple times based on user input.
-2. _Sum_range_a_to_b.c: Calculates the sum of numbers within a given range.
+2. Sum_range_a_to_b.c: Calculates the sum of numbers within a given range.
 3. Even_sum_range.c: Computes the sum of even numbers in a specified range.
 4. Even_divisible_by_3_sum.c: Sums even numbers that are divisible by 3.
 5. Even_divisible_by_3_and_x_sum.c: Sums even numbers divisible by both 3 and another value.
