@@ -73,23 +73,23 @@ Exercises:
 Exercises involving loops such as for, while, and do while.
 Exercises:
 
-1. Repeat_print_phrase.c: Repeats and prints a phrase multiple times based on user input.
-2. Sum_range_a_to_b.c: Calculates the sum of numbers within a given range.
-3. Even_sum_range.c: Computes the sum of even numbers in a specified range.
-4. Even_divisible_by_3_sum.c: Sums even numbers that are divisible by 3.
-5. Even_divisible_by_3_and_x_sum.c: Sums even numbers divisible by both 3 and another value.
-6. Average_from_inputs.c: Calculates the average of multiple input values.
+1. Repeat_print_phrase.c: Repeats and prints a phrase multiple times based on user input
+2. Sum_range_a_to_b.c: Calculates the sum of numbers within a given range
+3. Even_sum_range.c: Computes the sum of even numbers in a specified range
+4. Even_divisible_by_3_sum.c: Sums even numbers that are divisible by 3
+5. Even_divisible_by_3_and_x_sum.c: Sums even numbers divisible by both 3 and another value
+6. Average_from_inputs.c: Calculates the average of multiple input values
 7. Count_occurrences.c: Counts how many times a specific value appears.
-8. Fit_capacity_checker.c: Checks if values fit within a defined capacity.
-9. Minimum_value_finder.c: Finds the smallest value among inputs.
-10. MinMax_sum_calculator.c: Calculates the sum between minimum and maximum values.
-11. Parity_force_analyzer.c: Analyzes numbers based on parity conditions.
-12. Odd_positive_average_calculator.c: Computes the average of odd positive numbers.
-13. Digit_counter.c: Counts the number of digits in a number.
-14. Water_billing_system.c: Simulates a water billing calculation system.
-15. Frequency_counter.c: Counts frequency of values in a sequence.
-16. Blackjack_score.c: Calculates Blackjack scores based on input values.
-17. Palindrome_validator.c: Checks if a number is a palindrome.
+8. Fit_capacity_checker.c: Checks if values fit within a defined capacity
+9. Minimum_value_finder.c: Finds the smallest value among inputs
+10. MinMax_sum_calculator.c: Calculates the sum between minimum and maximum values
+11. Parity_force_analyzer.c: Analyzes numbers based on parity conditions
+12. Odd_positive_average_calculator.c: Computes the average of odd positive numbers
+13. Digit_counter.c: Counts the number of digits in a number
+14. Water_billing_system.c: Simulates a water billing calculation system
+15. Frequency_counter.c: Counts frequency of values in a sequence
+16. Blackjack_score.c: Calculates Blackjack scores based on input values
+17. Palindrome_validator.c: Checks if a number is a palindrome
 
 
 
@@ -98,9 +98,17 @@ Exercises:
 Programs using functions and modular programming concepts.
 Exercises
 
-To be documented
+1. Factorial_difference.c: Calculates the difference between the factorials of two numbers using functions
+2. Expression_calculator.c: Evaluates mathematical expressions using functions to organize operations
+3. Fahrenheit_to_celsius.c: Converts temperature from Fahrenheit to Celsius using a dedicated function
+4. Point_distance_calculator.c: Calculates the distance between two points in a 2D plane using a function
+5. Euler_series_approximation.c: Approximates Euler’s number (e) using a series expansion with functions
+6. Prime_number_checker.c: Checks whether a number is prime using a function
+7. Square_root_calculator.c: Calculates the square root of a number using a function-based approach
+8. Digit_counter.c: Counts the number of digits in an integer using a function
+9. Triangle_generator.c: Generates a numeric or character-based triangle pattern using functions
+10. Triangle_generator_and_sum.c: Generates a triangle and calculates the sum of its elements using functions
 
-More exercises will be added here…
 
 ---
 
